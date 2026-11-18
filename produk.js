@@ -3,10 +3,10 @@
    PENGATURAN TOKO & DATA PRODUK — cukup ubah berkas ini.
    ========================================================= */
 window.TOKO = {
-  nama: (window.TEMA && TEMA.nama) || 'Rupa Lokal', // nama toko diambil dari tema.js
+  nama: (window.TEMA && TEMA.nama) || 'Bazzar', // nama toko diambil dari tema.js
   slogan: 'Barang harian buatan perajin lokal',
   // Nomor WhatsApp format internasional tanpa + dan tanpa spasi (62 = Indonesia)
-  wa: '6281200001234',
+  wa: '62895411120976',
   mataUang: 'Rp',
   // Ongkir sederhana per kota (Rupiah). "Ambil di toko" = 0.
   ongkir: [
